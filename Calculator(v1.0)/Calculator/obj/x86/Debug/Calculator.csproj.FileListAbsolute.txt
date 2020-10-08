@@ -1,0 +1,4 @@
+D:\Personal\Desktop\学校课程\2020-2021第一学期\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Personal\Desktop\学校课程\2020-2021第一学期\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Personal\Desktop\学校课程\2020-2021第一学期\C#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Personal\Desktop\学校课程\2020-2021第一学期\C#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
